@@ -1,13 +1,27 @@
 body {
+    background-image: url("Wallpaper.png");
+    background-repeat: no-repeat;
+    background-size: cover;
     background-color: #F0F8FF;
     border-left-width: medium;
     border right-width: medium;
     font-family: verdana;
     }
 h4 {
-    color: #F0F8FF;
-    font-family: verdana;
+    color: #A9A9A9;
     }
+ h5 {
+ }
 img{
-    align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
     }
+p {
+    text-align: center;
+}
+a {
+    color: #000000;
+    display: block;
+    text-align: center;
+}
